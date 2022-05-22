@@ -1,0 +1,18 @@
+{
+    "name": "suisuishou.soutility.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7056ea9e09464184f983ea2c18951fe8"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
